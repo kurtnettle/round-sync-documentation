@@ -7,12 +7,10 @@ title = "Round Sync Documentation"
 
 
 [output.html]
-
-default-theme = "rs-light"
-preferred-dark-theme = "rs-dark"
+cname = "roundsync.com"
 
 git-repository-url = "https://github.com/newhinton/round-sync-documentation"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/newhinton/round-sync-documentation/edit/master/{path}"
 
-additional-css = ["theme/style.css", "theme/fork-awesome.min.css"]
+additional-css = ["theme/style.css", "theme/customthemes.css", "theme/fork-awesome.min.css"]
